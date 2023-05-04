@@ -5,3 +5,4 @@ hi this is local repo
 =======
 hi..this is repo
 >>>>>>> ef9db20a81a689cb65afab906d2897ed867b4869
+this is mini branch
